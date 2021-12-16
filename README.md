@@ -1,9 +1,18 @@
-# Criando um Banco Digital com Java e Orientação a Objetos
+<h3 align="center">Criando um Banco Digital com Java e Orientação a Objetos :bank:</h3>
 
-## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
+<p align="center">
+  <img src="./img/dio.png" alt="DIO" title="Digital Innovation One">
+</p>
+
+<img src="./img/badge.png" title="Badge" width="70" height="70">
+
+Curso do Bootcamp AMDOCS Java Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
 “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
+
+
+
 
 ### Abstração
 Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
